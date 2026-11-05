@@ -1,0 +1,16 @@
+{
+  "horizon_days": 14,
+  "weekday_night_start_hour": 18,
+  "extra_holidays": ["2026-12-25"],
+  "goyang": [
+    {"name": "성사실외", "id": 5},
+    {"name": "성사전천후", "id": 4}
+  ],
+  "eunpyeong": [
+    {"name": "북한산 장미 1면", "part": 19, "place": 9},
+    {"name": "북한산 장미 2면", "part": 19, "place": 10},
+    {"name": "선정 1면", "part": 23, "place": 12},
+    {"name": "선정 2면", "part": 23, "place": 13},
+    {"name": "선정 3면", "part": 23, "place": 14}
+  ]
+}
